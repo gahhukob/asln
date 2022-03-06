@@ -1,4 +1,4 @@
-# asln
+# ASLN
 Associative self looped net (strong AI)
 
 
